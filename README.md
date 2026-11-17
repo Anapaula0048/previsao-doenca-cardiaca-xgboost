@@ -18,13 +18,6 @@ Projeto de estudo de classificação binária (com ou sem doença cardíaca) usa
 5. Retreino do modelo apenas com essas 10 variáveis.
 6. Avaliação com validação cruzada (5 folds), matriz de confusão e `classification_report`.
 
-## Resultados
-
-- Validação cruzada (5 folds), MÉTRICA: **84,1% (± 2,3%)**
-- Acurácia no teste: XX%
-- Recall da classe "com doença": XX%
-- Precision da classe "com doença": XX%
-
 Variáveis mais importantes: LISTA DAS 3 A 5 PRIMEIRAS DE `top_variables`.
 
 ## Tecnologias
